@@ -31,6 +31,12 @@ const blogData = [
     link: "https://medium.com/@naveengarg1/the-impact-of-ai-on-erp-systems-driving-smarter-business-operations-c20eee4f8ed7",
     alt: "AI & ERP"
   },
+  {
+    title: "The Rise of Quantum Computing: What You Need to Know",
+    image: "https://miro.medium.com/v2/resize:fit:1050/1*VweJuj7drkYkoR3bnj_v2Q.png",
+    link: "https://medium.com/@naveengarg1/the-rise-of-quantum-computing-what-you-need-to-know-c6177bdc1669",
+    alt: "Quantum Computing"
+  }
   // Add blog data here
 ];
 
